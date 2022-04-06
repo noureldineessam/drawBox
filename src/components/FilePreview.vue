@@ -1,7 +1,7 @@
 <template>
 
       <label for="addImageSelect">
-          <a class="btn btn-success ml-6">Upload Inventory</a>
+          <a class="btn btn-success ml-6">Upload Image</a>
       </label>
       <input type="file" id="addImageSelect" ref="fileInput" class="d-none" @input="pickFile"/>
     <div class="btn btn-secondary mx-2" @click="cleanCanvas">Clean Canvas</div>
