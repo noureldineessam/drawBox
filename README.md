@@ -2,7 +2,11 @@
 
 # Draw Box
 
+This project can take an image to be uploaded and create boxes on it:
 
+• Start by uploading an image(it might zoom in)
+• Enable the draw mode toggle switch and start drawing boxes in any direction!
+• Switch off the draw mode to be able to highlight boxes on hover and select boxes as well.
 
 ## Installing
 
